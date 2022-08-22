@@ -3,6 +3,16 @@
   "displayName": "orangelemon",
   "description": "Orange Lemon Theme",
   "version": "0.0.1",
+  "publisher": "trisdo687",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/tsdenouden/orangelemonTheme"
+  },
+  "keywords": [
+      "theme",
+      "dark theme",
+      "orange"
+  ],
   "engines": {
     "vscode": "^1.70.0"
   },
