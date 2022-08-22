@@ -1,0 +1,5 @@
+node_modules
+*.vsix
+.DS_Store
+vsc-extension-quickstart.md
+CHANGELOG.md
